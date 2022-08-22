@@ -1,4 +1,4 @@
-# p2pc
+# p2pa
 
 # 1. Up django server
 ## setup
